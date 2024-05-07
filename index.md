@@ -17,6 +17,7 @@ My GitHub page is http://github.com/ncastro80.
     the number of command line arguments. I ensured that I provided only three arguments after the command name. 
 
 * Lab 7
+
     In Lab 7 part 1, I enjoyed learning how to use logical operators, nested if-statements, 
     and Boolean operators/expressions. My partner and I wrote functions to implement parking 
     restriction rules based on signs. For each function, we implemented if-statements and 
@@ -25,6 +26,7 @@ My GitHub page is http://github.com/ncastro80.
     like an app that explains when and where you are allowed to park.
 
 * Lab 8 
+
     In Lab 8 part 2, I utilized my understanding of loops to generate a pattern. 
     I used three for-loops, which consisted of one outer loop and two inner loops. 
     I learned how to create a counter-controlled for-loop for each loop. 
